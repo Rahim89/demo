@@ -1,8 +1,8 @@
 {
   "posts": [
     { "name": "Rahim", "username": "Post 1", "email": "R@gmail.com" },
-    { "name": "Clint", "username", "emai": "R@gmail.com"},
-    { "name": "Nikhil", "username", "emai": "N@gmail.com" }
+    { "name": "Clint", "username": "Post 2", "emai": "R@gmail.com"},
+    { "name": "Nikhil", "username": "Post 3", "emai": "N@gmail.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
